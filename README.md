@@ -1,8 +1,8 @@
 # SQL-World_Layoffs_Analysis
-## Project Overview
+# Project Overview
 The SQL World Layoffs Analysis project is a comprehensive examination of global layoff trends to provide insights into job market dynamics and industry impacts. Using SQL, this project analyzes various aspects of the layoffs dataset, including regional and industry-specific layoffs, affected company stages, and peak periods of workforce reductions. This analysis is intended to assist job seekers, placement agencies, and companies with data-backed insights for strategic workforce planning and decision-making.
 
-## Project Objectives
+# Project Objectives
 Analyze global layoff data to identify trends and patterns over time.
 
 Examine layoffs by region, industry, and company stage.
@@ -11,7 +11,7 @@ Identify high-impact periods and peak trends in layoffs.
 
 Provide actionable insights to support job market understanding and strategic planning.
 
-## Data Cleaning and Transformation
+# Data Cleaning and Transformation
 Data cleaning and transformation were conducted in a separate staging table to ensure data integrity and consistency before performing the analysis. Key transformations included:
 
 Duplicate Removal: Identified and removed duplicate entries to avoid data redundancy.
@@ -25,7 +25,7 @@ Handling Null Values: Managed missing data in key columns by either removing or 
 Data Validation: Ensured that all transformations were accurately applied and consistent with project requirements.
 
 
-## Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 After data cleaning, EDA was conducted to extract meaningful insights, including:
 
 Layoff Distribution Analysis: Analyzed layoffs by location, industry, and company stage to identify high-impact regions and sectors.

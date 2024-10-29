@@ -11,5 +11,6 @@ Provide actionable insights to support job market understanding and strategic pl
 
 ## Tools and Technologies
 Database Management System: MySQL
-SQL Queries: For data cleaning, data transformation, and in-depth analysis
+SQL Queries: For data cleaning
+Data transformation, and in-depth analysis
 Visualization: Prepared for further visualization in platforms like Tableau or Power BI to showcase insights interactively.

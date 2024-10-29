@@ -4,13 +4,19 @@ The SQL World Layoffs Analysis project is a comprehensive examination of global 
 
 ## Project Objectives
 Analyze global layoff data to identify trends and patterns over time.
+
 Examine layoffs by region, industry, and company stage.
+
 Identify high-impact periods and peak trends in layoffs.
+
 Provide actionable insights to support job market understanding and strategic planning.
 
 
 ## Tools and Technologies
 Database Management System: MySQL
+
 SQL Queries: For data cleaning
+
 Data transformation, and in-depth analysis
+
 Visualization: Prepared for further visualization in platforms like Tableau or Power BI to showcase insights interactively.

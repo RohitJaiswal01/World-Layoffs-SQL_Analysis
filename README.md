@@ -40,7 +40,8 @@ Yearly Ranking: Analyzed and ranked layoffs yearly to observe long-term trends a
 
 
 ## Tools and Technologies
-Database Management System: MySQL
+Database Management System: MySQL.
+
 SQL Queries: For data cleaning, transformation, and analysis
 
 

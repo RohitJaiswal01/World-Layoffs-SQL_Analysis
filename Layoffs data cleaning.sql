@@ -12,7 +12,7 @@ FROM layoffs;
 CREATE TABLE layoffs_staging 
 LIKE layoffs;
 
-INSERT layoffs_staging 
+INSERT INTO layoffs_staging 
 SELECT * FROM layoffs;
 
 -- now when we are data cleaning we usually follow a few steps

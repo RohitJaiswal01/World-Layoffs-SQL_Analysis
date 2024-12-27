@@ -1,0 +1,17 @@
+stage_id,stage_value,description,funding_source
+1,"Series A","First round of funding after the seed stage","Venture Capital"
+2,"Series B","Second round of funding for scaling operations","Venture Capital"
+3,Post-IPO,"Publicly traded company","Public Markets"
+4,"Series D","Fourth round of funding","Venture Capital"
+5,Unknown,"Stage unknown or not disclosed",Unknown
+6,"Series E","Fifth round of funding","Venture Capital"
+7,Acquired,"Acquisition by another company","Corporate Mergers"
+8,"Series C","Third round of funding for scaling further","Venture Capital"
+9,"Series F","Sixth round of funding","Private Equity"
+10,"Private Equity","Funding by private equity firms","Private Equity Firms"
+11,Seed,"Initial funding to start the company","Angel Investors"
+12,"Series H","Eighth round of funding","Venture Capital"
+13,"Series G","Seventh round of funding","Private Equity"
+14,"Series I","Ninth round of funding","Private Equity"
+15,Subsidiary,"A subsidiary of a larger company","Parent Company"
+16,"Series J","Tenth round of funding","Private Equity"

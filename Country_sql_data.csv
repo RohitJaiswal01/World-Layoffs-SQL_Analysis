@@ -1,0 +1,35 @@
+Country_ID,Country_Name,Population_Million,Literacy_Rate,Continent,GDP_Billions
+1,Ireland,4.94,99,Europe,574.00
+2,Canada,37.74,99,"North America",1647126.00
+3,"United States",331.00,99,"North America",21433225.00
+4,Brazil,212.56,93.2,"South America",2085.00
+5,Sweden,10.10,99,Europe,554.00
+6,India,1380.00,74.04,Asia,2875.00
+7,Indonesia,273.52,94.6,Asia,1150.00
+8,Russia,145.93,99.7,Europe,1699876.00
+9,Israel,8.66,97.8,Asia,446.00
+10,"United Kingdom",67.89,99,Europe,2994000.00
+11,Australia,25.50,99,Oceania,1392687.00
+12,France,65.27,99,Europe,2715518.00
+13,Germany,83.78,99,Europe,3845630.00
+14,Seychelles,0.10,95,Africa,2.50
+15,"United Arab Emirates",9.89,97.8,Asia,501.00
+16,Austria,9.01,99,Europe,474.00
+17,Mexico,128.93,95,"North America",1247000.00
+18,Argentina,45.20,98,"South America",494.00
+19,"Hong Kong",7.50,94.3,Asia,365.00
+20,Singapore,5.64,98,Asia,372.00
+21,Spain,46.72,99,Europe,1392825.00
+22,China,1439.32,96.8,Asia,14140163.00
+23,Malaysia,32.37,94.6,Asia,336.00
+24,Nigeria,206.14,59.6,Africa,450.00
+25,Denmark,5.79,99,Europe,306.00
+26,Kenya,53.77,81.5,Africa,100.00
+27,Switzerland,8.65,99,Europe,824.00
+28,Norway,5.42,99,Europe,403.00
+29,Estonia,1.33,99,Europe,32.00
+30,Thailand,69.80,93.5,Asia,543.00
+31,Finland,5.54,99,Europe,305.00
+32,Netherlands,17.13,99,Europe,902.00
+33,Portugal,10.20,99,Europe,274.00
+34,Senegal,16.43,52,Africa,23.00

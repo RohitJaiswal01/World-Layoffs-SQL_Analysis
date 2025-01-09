@@ -11,7 +11,7 @@ The SQL World Layoffs Analysis project is a comprehensive examination of global 
 
 ## ETL
 ## Data Extraction
-The datasets are hosted on GitHub, and we use Python's requests library to fetch them directly into Google Colab. And is saved in in csv files to be transformed and cleaned using SQL in MySQL.
+The datasets are hosted on GitHub, and we use Python's requests library to fetch them directly into Google Colab. And is saved as a csv file to be transformed and cleaned using SQL in MySQL.
 
 
 ## Data Cleaning and Transformation

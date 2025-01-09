@@ -9,6 +9,11 @@ The SQL World Layoffs Analysis project is a comprehensive examination of global 
 - Identify high-impact periods and peak trends in layoffs.
 - Provide actionable insights to support job market understanding and strategic planning.
 
+
+## Data Extraction
+The datasets are hosted on GitHub, and we use Python's requests library to fetch them directly into Google Colab. And is saved in in csv files to be transformed and cleaned using SQL in MySQL.
+
+
 ## Data Cleaning and Transformation
 Data cleaning and transformation were conducted in a separate staging table to ensure data integrity and consistency before performing the analysis. Key transformations included:
 
